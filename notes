@@ -16,3 +16,8 @@ shell:
 !:0     the command
 !!      repeat the previous line
 
+
+
+iterm2 shortcuts:
+command + i : name tab session title
+
